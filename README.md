@@ -11,7 +11,7 @@ Ender3V2 mit BTT Octupus V1.0
 
 TMC2209 Steppertreiber
 
-X Stepper BTT Openloop
+X Stepper BTT S42B V1.1 Closed Loop 
 
 Dual Z Stepper
 
